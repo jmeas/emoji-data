@@ -1,0 +1,20 @@
+{
+  "name": "emoji-data-test-pls",
+  "description": "Emoji data and images",
+  "main": "emoji.json",
+  "authors": [
+    "Cal Henderson <cal@iamcal.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "emoji"
+  ],
+  "homepage": "https://github.com/jmeas/emoji-data",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
